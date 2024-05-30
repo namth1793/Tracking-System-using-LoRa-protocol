@@ -8,5 +8,6 @@ Welcome to my project about using LoRa technique with STM32F103C8T6.
   https://github.com/sztvka/stm32-nmea-gps-hal
 - And the last one, I follow a lot of step from this page to using LCD for my project:
   https://deepbluembedded.com/stm32-i2c-lcd-library-example-16x2-20x4-multiple-lcds/
+
 -> My project will have some update in the future, maybe I wil send data to the server and build a LoRaWan network.
   Thanks for reviewing!
